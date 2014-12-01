@@ -1,0 +1,21 @@
+Changelog
+=========
+
+0.2 (2011-xx-yy) [tkimnguyen] unreleased
+----------------------------------------
+
+- Added secureloginportlet here
+
+
+0.1.5 (2011-08-28) [tkimnguyen]
+-------------------------------
+
+- Adds layer to all skins
+
+- Add uninstall profile
+
+
+0.1.4 (2011-08-11) [tkimnguyen]
+-------------------------------
+
+- Initial release
